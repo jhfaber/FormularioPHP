@@ -10,9 +10,6 @@
         /* En esta página se reciben los datos, como puede verse solo se usa
          * la función print_r() para volcar al navegador el arreglo $_POST
          * que contiene todos los datos del formulario de la página de origen
-         * la idea es que usted como aprendiz complete el código de esta página 
-         * para procesar los datos recibidos según lo especificado en el 
-         * ejercicio propuesto en el material de estudio.
          */
         print_r($_POST);
         ?>
