@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html> 
     <head> 
-        <title>Unidad 4 - Ejemplo 2 Recibe Datos Desde Otra P&aacute;gina</title>
+        <title>Realizacion de trabajo</title>
         <meta http-equiv="Content-Type" 
               content="text/html; charset=ISO-8859-1" />
     </head>
